@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
 <img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
 -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=FFCCFF&height=300&section=header&text=Welcome%20to%20Heejin's%20GitHub&fontSize=50&fontColor=ffffff&font=mono" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=FF9B9F&height=300&section=header&text=Welcome%20to%20Heejin's%20GitHub&fontSize=50&fontColor=ffffff&font=mono" />
+
+
 
 
 
