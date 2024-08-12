@@ -1,22 +1,51 @@
-<!--
-**hjzhhhj/hjzhhhj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heejin's GitHub</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            background: #001F3F;
+            color: #ffffff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: sans-serif;
+            overflow: hidden;
+        }
 
-Here are some ideas to get you started:
+        .container {
+            text-align: center;
+        }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
--->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=FF9B9F&height=300&section=header&text=Welcome%20to%20Heejin's%20GitHub&fontSize=50&fontColor=ffffff&font=mono" />
+        .stars {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: url('https://cdn.pixabay.com/photo/2016/04/01/09/16/stars-1302341_960_720.jpg') repeat;
+            z-index: -1;
+            opacity: 0.5;
+        }
+
+        h1 {
+            font-size: 50px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="stars"></div>
+        <h1>Welcome to Heejin's GitHub</h1>
+    </div>
+</body>
+</html>
+
 
 
 
