@@ -2,7 +2,8 @@
   <img src="https://github.com/user-attachments/assets/867abcd3-d646-413e-9d9c-988a788f6d76"/>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={hjzhhhj}&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjzhhhj&show_icons=true&theme=radical)
+
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
