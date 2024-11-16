@@ -2,6 +2,8 @@
   <img src="https://github.com/user-attachments/assets/867abcd3-d646-413e-9d9c-988a788f6d76"/>
 </div>
 
+#
+
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
