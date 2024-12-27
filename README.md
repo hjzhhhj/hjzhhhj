@@ -10,7 +10,10 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,c,python,react,flutter)](https://skillicons.dev)
 
 
-<a href="https://skillicons.dev">
-    <img src="(https://skillicons.dev/icons?i=html,css,js,ts,java,c,python,react,flutter)" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,c,python,react,flutter" />
   </a>
+</p>
+
 Tool
