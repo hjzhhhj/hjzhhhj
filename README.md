@@ -5,4 +5,4 @@
 
 #
 
-<img src=[https://camo.githubusercontent.com/a6a2772e4195a6b4cc46199c48f7aba7c45721e0b7cf19032bfc71d9d7eee042/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a61766](https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg)>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
