@@ -9,11 +9,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,c,python,react,flutter)](https://skillicons.dev)
 
+## Tool
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,c,python,react,flutter" />
-  </a>
-</p>
-
-Tool
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,discord,eclipse,figma,notion,ps,vscode,visualstudio)](https://skillicons.dev)
