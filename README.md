@@ -7,7 +7,7 @@
 
 ## Language & Framework
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,c,python,react,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,c,python,react)](https://skillicons.dev)
 
 ## Tool
 
