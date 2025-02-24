@@ -11,4 +11,4 @@
 
 ## Tool
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,discord,eclipse,figma,notion,ps,vscode,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,figma,notion,ps,vscode,visualstudio)](https://skillicons.dev)
