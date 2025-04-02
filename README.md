@@ -11,4 +11,4 @@
 
 ## Tool
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,intellij,pycharm,,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,pycharm,,eclipse,ai,ps)](https://skillicons.dev)
