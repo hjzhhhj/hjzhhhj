@@ -1,3 +1,3 @@
-<a href="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fyoutu.be%2F3_l-UI4prVY%3Fsi%3DXEPJrF9y2aq-_z8L](https://youtu.be/130IbshksRI?si=mESzpWlujCEPutl9&theme=stream">
-  <img src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fyoutu.be%2F3_l-UI4prVY%3Fsi%3DXEPJrF9y2aq-_z8L](https://youtu.be/130IbshksRI?si=mESzpWlujCEPutl9&theme=stream" alt="SoundBadge" />
+<a href="https://www.youtube.com/watch?v=130IbshksRI&list=RD130IbshksRI&start_radio=1">
+  <img src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D130IbshksRI%26list%3DRD130IbshksRI%26start_radio%3D1&theme=stream" alt="SoundBadge" />
 </a>
